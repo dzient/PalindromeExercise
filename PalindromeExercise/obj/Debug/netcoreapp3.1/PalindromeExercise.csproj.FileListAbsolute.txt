@@ -1,0 +1,14 @@
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.exe
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.deps.json
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.runtimeconfig.json
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.runtimeconfig.dev.json
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.dll
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\bin\Debug\netcoreapp3.1\PalindromeExercise.pdb
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.csproj.AssemblyReference.cache
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.AssemblyInfoInputs.cache
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.AssemblyInfo.cs
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.dll
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.pdb
+C:\Users\kc2us\Documents\GitHub\PalindromeExercise\PalindromeExercise\PalindromeExercise\obj\Debug\netcoreapp3.1\PalindromeExercise.genruntimeconfig.cache
